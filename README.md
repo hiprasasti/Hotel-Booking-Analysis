@@ -37,3 +37,6 @@ The dataset was cleaned and analysed using Python and visualizes using Tableau.
 ## Limitations
 - Some records had not country information, and these were exclude during querying.
 - Some records had 0 adr
+
+## Result
++ Portugal Hotel Booking dashboard can be access here: https://public.tableau.com/views/LHotelResortBookingDemand/Dashboard5?:language=en-US&:display_count=n&:origin=viz_share_link
