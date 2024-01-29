@@ -1,6 +1,8 @@
 # Hotel-Booking-Analysis
 The dataset was cleaned and analysed using Python and visualizes using Tableau.
 
+![alt text](https://github.com/hiprasasti/Hotel-Booking-Analysis/blob/main/Portugal%20Hotel%20Booking%20Analysis%20Dashboard.png?raw=true)
+
 ## Data Used
 **Data** - Hotel Booking with 32 columns and 119391 rows from 2015 to 2017.
 
